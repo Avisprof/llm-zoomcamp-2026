@@ -3,6 +3,7 @@
 *.db
 *.db-shm
 *.db-wal
+02-vector-search/models
 
 
 # Byte-compiled / optimized / DLL files
