@@ -1,0 +1,95 @@
+question,answer_agent,answer_orig,tool_calls,cost,document
+"I just found this course — is it still okay to join now, or am I too late?","Yes — you can still join now. According to the FAQ, if you just discovered the course, you’re still welcome to start.
+
+One important note: if you want a certificate, you need to submit your project while submissions are still being accepted. Homework can only be submitted while the form is open, but missing homework won’t affect certification.","Yes, but if you want to receive a certificate, you need to submit your project while we’re still accepting submissions.","[{""name"": ""search"", ""arguments"": ""{\""query\"":\""course join late too late still okay to join now enrollment deadline start date\""}""}]",0.0011955,74eb249bbf
+Can I still enroll if I discovered the course after it already started?,"Yes — you can still join even if you discovered the course after it started. The FAQ says: “I just discovered the course. Can I still join? Yes, but if you want to receive a certificate, you need to submit your project while we’re still accepting submissions.”
+
+So:
+- You can start the course anytime.
+- If you want a certificate, make sure you submit your project before submissions close.
+
+If you want, I can also help clarify how the homework deadlines work if that’s what you meant by “enroll.”","Yes, but if you want to receive a certificate, you need to submit your project while we’re still accepting submissions.","[{""name"": ""search"", ""arguments"": ""{\""query\"":\""enroll after course has started late enrollment discovered course after start\""}""}]",0.0013515,74eb249bbf
+"If I join the course late, can I still get a certificate somehow?","Yes — you can still join late, but to get a certificate you need to submit your project while the course is still accepting submissions as part of a live cohort.
+
+In practice:
+- You can study the material in self-paced mode
+- Homework is not required for the certificate
+- You must finish the capstone/project and required peer reviews while submissions are open
+
+So if you join late, the key thing is whether the live cohort is still accepting project submissions.","Yes, but if you want to receive a certificate, you need to submit your project while we’re still accepting submissions.","[{""name"": ""search"", ""arguments"": ""{\""query\"":\""late join course certificate still get certificate\""}""}]",0.0011475,74eb249bbf
+What do I need to do to be eligible for the certificate if I start the course now?,"If you start now, you can still work through the materials in self-paced mode, but to be eligible for the certificate you must finish with a **live cohort**.
+
+To get the certificate, you need to:
+
+- **Complete a capstone project**
+- **Finish the required peer reviews**
+- Do all of this **while a live cohort is accepting project submissions and reviews**
+
+A few notes:
+- **Homework is not required** for the certificate.
+- You can prepare the project ahead of time, but **project submission and peer review must happen during the live cohort window**.
+
+If you want, I can also tell you where to check the current deadlines and cohort status.","Yes, but if you want to receive a certificate, you need to submit your project while we’re still accepting submissions.","[{""name"": ""search"", ""arguments"": ""{\""query\"":\""certificate eligibility start course now requirements complete assignments deadlines FAQ\""}""}]",0.0015645,74eb249bbf
+"Is it fine to take the course after it has begun, and what’s the deadline for the project if I want certification?","Yes — you can start the course whenever you want, even after it has begun.
+
+For certification, the key requirement is the **Capstone project**. Homework is **not mandatory** for the certificate.
+
+For the **project deadline**, the FAQ says the dates are listed on the **course management platform** next to the submission form, and they can differ by cohort. So check the current cohort page for the exact deadline.
+
+If you want, I can also summarize the certification requirements in one short checklist.","Yes, but if you want to receive a certificate, you need to submit your project while we’re still accepting submissions.","[{""name"": ""search"", ""arguments"": ""{\""query\"":\""take the course after it has begun enrollment late start deadline certification project\""}""}, {""name"": ""search"", ""arguments"": ""{\""query\"":\""project deadline certification course after it has begun\""}""}]",0.0020625,74eb249bbf
+"I signed up for LLM Zoomcamp, but I haven't gotten any confirmation email yet. Is that a problem or can I just start anyway?","No problem — you can just start anyway.
+
+According to the course FAQ, you **don’t need the confirmation email**. If you registered, you’re accepted, and registration is mainly just to gauge interest. You can also start learning and submitting homework while the form is open, and it’s **not checked against a registered list**.
+
+If you want, I can also point you to the LLM Zoomcamp docs and course platform to get started.",You don't need it. You're accepted. You can also just start learning and submitting homework (while the form is open) without registering. It is not checked against any registered list. Registration is just to gauge interest before the start date.,"[{""name"": ""search"", ""arguments"": ""{\""query\"":\""LLM Zoomcamp confirmation email sign up no confirmation can I start anyway\""}""}]",0.0013395,977bf7786c
+Do I actually need to wait for an acceptance email before I can begin the course and submit homework?,"No — you don’t need to wait for the acceptance email. You’re considered accepted already, and you can start learning and submit homework as long as the homework form is open. Registration is just used to gauge interest; it isn’t checked against a registered list.
+
+",You don't need it. You're accepted. You can also just start learning and submitting homework (while the form is open) without registering. It is not checked against any registered list. Registration is just to gauge interest before the start date.,"[{""name"": ""search"", ""arguments"": ""{\""query\"":\""acceptance email begin course submit homework wait acceptance email\""}""}]",0.00110025,977bf7786c
+"Is registration required to be allowed into the LLM Zoomcamp, or is it just for interest tracking?","Registration is **not required** to take part in the LLM Zoomcamp.
+
+According to the FAQ, you can **start learning and submitting homework without registering** as long as the form is open. Registration is **just to gauge interest before the start date**, and it’s **not checked against an approved list**.",You don't need it. You're accepted. You can also just start learning and submitting homework (while the form is open) without registering. It is not checked against any registered list. Registration is just to gauge interest before the start date.,"[{""name"": ""search"", ""arguments"": ""{\""query\"":\""registration required allowed into the LLM Zoomcamp interest tracking\""}""}]",0.00116625,977bf7786c
+"If I already filled out the registration form, does that mean I'm officially accepted even without a confirmation message?","Yes — for this course, filling out the registration form is enough. You’re accepted even if you never receive a confirmation message.
+
+You can also start learning and submitting homework while the form is open, and registration is mainly just to gauge interest.",You don't need it. You're accepted. You can also just start learning and submitting homework (while the form is open) without registering. It is not checked against any registered list. Registration is just to gauge interest before the start date.,"[{""name"": ""search"", ""arguments"": ""{\""query\"":\""registration form officially accepted confirmation message accepted without confirmation\""}""}]",0.00128175,977bf7786c
+"Will homework submissions be checked against a list of registered students, or can anyone submit while the form is open?","Yes — anyone can submit while the homework form is open. It is **not checked against a registered-students list**. Registration is just for gauging interest, and you can submit as long as the form remains open.",You don't need it. You're accepted. You can also just start learning and submitting homework (while the form is open) without registering. It is not checked against any registered list. Registration is just to gauge interest before the start date.,"[{""name"": ""search"", ""arguments"": ""{\""query\"":\""homework submissions checked against registered students form open anyone submit\""}""}]",0.0011145,977bf7786c
+How do I join the Office Hours or live workshop if I don't have the Zoom link?,"You don’t need the Zoom link as a student.
+
+For Office Hours or live/workshop sessions:
+- Students join via **YouTube Live**
+- The **video link is posted in the announcements channel** on **Telegram and Slack** before the session starts
+- You can also watch on the **DataTalksClub YouTube channel**
+- Questions should be submitted via **Slido**; don’t rely on posting in chat because messages may be missed
+
+If you want, I can also point you to where the announcements channel is referenced.","The zoom link is only published to instructors/presenters/TAs.
+
+Students participate via YouTube Live and submit questions to Slido (link is pinned in the chat when live). The video URL should be posted in the [announcements channel on Telegram and Slack](https://t.me/dezoomcamp) before it begins. You can also watch live on the DataTalksClub [YouTube Channel](https://www.youtube.com/c/DataTalksClub).
+
+Don’t post questions in chat as they may be missed if the room is very active.","[{""name"": ""search"", ""arguments"": ""{\""query\"":\""Office Hours live workshop Zoom link join if don't have the Zoom link\""}""}]",0.00136125,489dd1c9d9
+Where is the live stream link for workshop sessions usually announced before they start?,"The live stream link for workshop sessions is usually posted in the **announcements channel on Telegram and Slack before the session starts**. You can also watch it live on the **DataTalksClub YouTube channel**.
+
+","The zoom link is only published to instructors/presenters/TAs.
+
+Students participate via YouTube Live and submit questions to Slido (link is pinned in the chat when live). The video URL should be posted in the [announcements channel on Telegram and Slack](https://t.me/dezoomcamp) before it begins. You can also watch live on the DataTalksClub [YouTube Channel](https://www.youtube.com/c/DataTalksClub).
+
+Don’t post questions in chat as they may be missed if the room is very active.","[{""name"": ""search"", ""arguments"": ""{\""query\"":\""live stream link for workshop sessions announced before they start\""}""}]",0.0010815,489dd1c9d9
+"Can students get the Zoom URL for office hours, or is it only for the presenters and TAs?","The Zoom link is only published to instructors, presenters, and TAs.
+
+Students are expected to join via YouTube Live and submit questions through Slido. The video URL is usually posted in the announcements channel on Telegram/Slack before the session starts, and you can also watch on the DataTalksClub YouTube channel.","The zoom link is only published to instructors/presenters/TAs.
+
+Students participate via YouTube Live and submit questions to Slido (link is pinned in the chat when live). The video URL should be posted in the [announcements channel on Telegram and Slack](https://t.me/dezoomcamp) before it begins. You can also watch live on the DataTalksClub [YouTube Channel](https://www.youtube.com/c/DataTalksClub).
+
+Don’t post questions in chat as they may be missed if the room is very active.","[{""name"": ""search"", ""arguments"": ""{\""query\"":\""Zoom URL office hours students presenters TAs\""}""}]",0.00124425,489dd1c9d9
+"If I want to ask a question during the live session, should I use chat or Slido?","Use **Slido**, not chat.
+
+For live/office-hour sessions, students are expected to submit questions via **Slido**; the Slido link is usually pinned in the chat when the session is live. Questions in chat can get missed if the room is busy.","The zoom link is only published to instructors/presenters/TAs.
+
+Students participate via YouTube Live and submit questions to Slido (link is pinned in the chat when live). The video URL should be posted in the [announcements channel on Telegram and Slack](https://t.me/dezoomcamp) before it begins. You can also watch live on the DataTalksClub [YouTube Channel](https://www.youtube.com/c/DataTalksClub).
+
+Don’t post questions in chat as they may be missed if the room is very active.","[{""name"": ""search"", ""arguments"": ""{\""query\"":\""live session question chat Slido\""}""}]",0.0014685,489dd1c9d9
+"Is there another place to watch the live sessions besides Zoom, like YouTube?","Yes — students can watch live sessions on the DataTalksClub **YouTube Channel**. The Zoom link is only for instructors/presenters/TAs, and the live video URL is usually posted in the course announcements on **Telegram** and **Slack** before the session starts.
+
+You can also submit questions via **Slido** during the live session.","The zoom link is only published to instructors/presenters/TAs.
+
+Students participate via YouTube Live and submit questions to Slido (link is pinned in the chat when live). The video URL should be posted in the [announcements channel on Telegram and Slack](https://t.me/dezoomcamp) before it begins. You can also watch live on the DataTalksClub [YouTube Channel](https://www.youtube.com/c/DataTalksClub).
+
+Don’t post questions in chat as they may be missed if the room is very active.","[{""name"": ""search"", ""arguments"": ""{\""query\"":\""live sessions watch besides Zoom YouTube live sessions alternative platform\""}""}]",0.0013380,489dd1c9d9
